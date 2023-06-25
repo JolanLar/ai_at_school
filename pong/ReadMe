@@ -1,0 +1,12 @@
+Format d'une donnée inséré dans X : [ball-direction-x-to-pad, ball-direction-y, x-distance-between-ball-and-pad, y-distance-between-ball-and-pad]
+
+Quick start :
+  - Lancer l'app
+  - Auto play : activer et désactiver avec : 'p'
+  - Après avoir jouer sans auto play, entrainer le modèle avec 't'
+    La sauvegarde est automatique dans le fichier model.clf une fois le train terminé
+  - Déplacement non modifié : "x, e" et "up, down"
+
+J'ai ajouté des limites de terrain pour les pads, et ajusté la boîte de collision entre les pads et la balle
+
+Sauvegarde d'un model qui fonctionne dans model-demo.clf

@@ -1,0 +1,16 @@
+Création BDD :
+ Générer les nombres avec la syntax de fichier suivante : <number><you can choose>
+                                             ex nombre 1 : 1_1
+                                                           1_2
+                                                           ...
+                                                nombre 2 : 2_1
+                                                           2_2
+                                                           ...
+                                                etc...
+
+Pour entrainer le model, il suffit d'exécuter le fichier GenerateMLP.py.
+
+Pour tester la prédiction, relancez Drawer, dessinez un chiffre, puis appuyez sur "predict" !
+
+
+It's done !
